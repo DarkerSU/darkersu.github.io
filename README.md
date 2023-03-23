@@ -4,7 +4,7 @@
 
 一款基于 ElementPlus 开发的组件增强器；
 
-文档地址：[ElementPlus 组件增强器](https://darkersu.github.io/Itensifier)
+文档地址：[ElementPlus 组件增强器](https://darkersu.github.io/Intensifier)
 
 ## 个人博客
 
